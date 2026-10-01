@@ -255,16 +255,10 @@ Contributions are welcome.
 
 | Name | Role | GitHub |
 |---|---|---|
-| Swarup Surwase | *your role* | [@Swarup-Surwase](https://github.com/Swarup-Surwase) |
+| Tanmay Deore | *Team Leader* | [@Tanmay-Deore](https://github.com/Tanamy-Deore) |
+| Mukta Patil | *Member* | [@](https://github.com/) |
+| Shivam Sharma | *Member* | [@](https://github.com/) |
+| Swarup Surwase | *Member* | [@Swarup-Surwase](https://github.com/Swarup-Surwase) |
 
 *Add your teammates as new rows.*
 
-## 📄 License
-
-*Add a `LICENSE` file to the repo and name the license here.*
-
-<div align="center">
-
-⭐ If LUMA helps you or someone you know, give the repo a star.
-
-</div>
