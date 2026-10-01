@@ -239,17 +239,7 @@ LUMA-AI/
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome.
-
-1. Fork the repo
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "feat: add your feature"`
-4. Push: `git push origin feature/your-feature`
-5. Open a pull request
-
----
 
 ## 👥 Team
 
@@ -257,7 +247,7 @@ Contributions are welcome.
 |---|---|---|
 | Tanmay Deore | *Team Leader* | [@Tanmay-Deore](https://github.com/Tanamy-Deore) |
 | Mukta Patil | *Member* | [@](https://github.com/) |
-| Shivam Sharma | *Member* | [@](https://github.com/) |
+| Shivam Sharma | *Member* | [@kumar-shivam-sharma](https://github.com/kumar-shivam-sharma) |
 | Swarup Surwase | *Member* | [@Swarup-Surwase](https://github.com/Swarup-Surwase) |
 
 *Add your teammates as new rows.*
