@@ -208,36 +208,8 @@ Open the local URL that Vite prints (usually `http://localhost:5173`) and allow 
 
 ---
 
-## 📁 Project structure
 
-<details>
-<summary><b>Show folder layout</b></summary>
 
-```text
-LUMA-AI/
-├── public/          # static files, including the logo
-├── server/          # Node.js + Express backend
-├── src/             # React + TypeScript frontend
-├── index.html       # Vite entry point
-├── package.json
-├── vite.config.ts
-├── tsconfig*.json   # TypeScript config
-└── .oxlintrc.json   # linter config
-```
-
-</details>
-
----
-
-## 📸 Screenshots
-
-<!-- Add images to public/ and update the paths below -->
-
-| Home | Sign-language recognition |
-|:---:|:---:|
-| ![Home](public/screenshot-home.png) | ![ISL](public/screenshot-isl.png) |
-
----
 
 
 
