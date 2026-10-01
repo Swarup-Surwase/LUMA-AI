@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <radialGradient id="luma-glow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#4ade80" stop-opacity="0.9" />
+      <stop offset="60%" stop-color="#10b981" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#064e3b" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="ring-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#86efac" />
+      <stop offset="50%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <!-- Atmospheric Soft Glow -->
+  <circle cx="32" cy="32" r="28" fill="url(#luma-glow)" />
+  
+  <!-- Outer Elliptical Orbital Ribbon -->
+  <ellipse cx="32" cy="32" rx="22" ry="12" stroke="url(#ring-grad)" stroke-width="2" stroke-linecap="round" transform="rotate(-25 32 32)" opacity="0.8" />
+  
+  <!-- Secondary Ribbon -->
+  <ellipse cx="32" cy="32" rx="16" ry="8" stroke="#a7f3d0" stroke-width="1.5" stroke-linecap="round" transform="rotate(35 32 32)" opacity="0.6" />
+  
+  <!-- Fluid Liquid Core -->
+  <circle cx="32" cy="32" r="8" fill="#ecfdf5" />
+  <circle cx="30" cy="30" r="3" fill="#ffffff" opacity="0.9" />
+  
+  <!-- Small Neural Light Nodes -->
+  <circle cx="16" cy="24" r="1.5" fill="#a7f3d0" />
+  <circle cx="48" cy="40" r="1.5" fill="#6ee7b7" />
+  <circle cx="42" cy="18" r="2" fill="#34d399" />
+</svg>
