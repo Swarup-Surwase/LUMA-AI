@@ -217,7 +217,7 @@ Open the local URL that Vite prints (usually `http://localhost:5173`) and allow 
 
 | Name | Role | GitHub |
 |---|---|---|
-| Tanmay Deore | *Team Leader* | [@Tanmay-Deore](https://github.com/Tanamy-Deore) |
+| Tanmay Deore | *Team Leader* | [@Tanmay_Deore](https://github.com/Tanamy_Deore) |
 | Mukta Patil | *Member* | [@](https://github.com/) |
 | Shivam Sharma | *Member* | [@kumar-shivam-sharma](https://github.com/kumar-shivam-sharma) |
 | Swarup Surwase | *Member* | [@Swarup-Surwase](https://github.com/Swarup-Surwase) |
